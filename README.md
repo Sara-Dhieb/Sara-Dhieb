@@ -11,7 +11,7 @@ My name is Sara Dhieb and I'm an Telecommunications engineering student. I'm fro
 
 ## What am I up to?
 
-- 🔭 I’m currently learning SpringBoot framework.
+- 🔭 I’m currently learning React js framework.
 - 💬 Oraganisation department lead of Google Developers Student Clubs ENETCOM 
 - 📫 How to reach me: dhiebsara99@gmail.com
 ## My Absolute Favorites:
